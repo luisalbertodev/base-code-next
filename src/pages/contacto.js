@@ -1,8 +1,8 @@
 import React from "react";
 import Contact from "../views/Contact";
 
-const contact = () => {
+const ContactView = () => {
 	return <Contact />;
 };
 
-export default contact;
+export default ContactView;
